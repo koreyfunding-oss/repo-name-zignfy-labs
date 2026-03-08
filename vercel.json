@@ -1,0 +1,6 @@
+{
+  "framework": "nextjs",
+  "buildCommand": "cd apps/ai-cold-email-generator && npm install && npm run build",
+  "outputDirectory": "apps/ai-cold-email-generator/.next",
+  "installCommand": "cd apps/ai-cold-email-generator && npm install"
+}
